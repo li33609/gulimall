@@ -1,0 +1,50 @@
+2022-09-21 10:23:27,633 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-09-21 10:23:27,646 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 192.168.152.1:64435, agent: Nacos-Java-Client:v1.1.1, key: 192.168.152.1,64435,1560421966319100
+
+2022-09-21 10:23:27,646 INFO send udp packet: 192.168.152.1,64435,1560421966319100
+
+2022-09-21 10:23:27,674 INFO received ack: {"type": "push-ack", "lastRefTime":"1560421966319100", "data":""} from: 192.168.152.1:, cost: 64435 ms, unacked: 28, total push: 0
+
+2022-09-21 10:23:42,698 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2022-09-21 10:23:42,699 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 192.168.152.1:64435, agent: Nacos-Java-Client:v1.1.1, key: 192.168.152.1,64435,1560437027787100
+
+2022-09-21 10:23:42,699 INFO send udp packet: 192.168.152.1,64435,1560437027787100
+
+2022-09-21 10:23:42,730 INFO received ack: {"type": "push-ack", "lastRefTime":"1560437027787100", "data":""} from: 192.168.152.1:, cost: 64435 ms, unacked: 31, total push: 0
+
+2022-09-21 12:08:49,690 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 15:28:55,116 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 15:29:01,879 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 15:36:47,843 INFO DEFAULT_GROUP@@gulimall-getway is changed, add it to push queue.
+
+2022-09-21 15:37:02,879 INFO DEFAULT_GROUP@@gulimall-getway is changed, add it to push queue.
+
+2022-09-21 16:43:14,477 INFO DEFAULT_GROUP@@gulimall-getway is changed, add it to push queue.
+
+2022-09-21 16:45:14,662 INFO DEFAULT_GROUP@@gulimall-getway is changed, add it to push queue.
+
+2022-09-21 16:45:35,564 INFO DEFAULT_GROUP@@gulimall-getway is changed, add it to push queue.
+
+2022-09-21 16:50:47,418 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:50:55,125 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:52:12,465 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:52:18,040 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:52:52,511 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:52:54,200 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:55:17,562 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+
+2022-09-21 16:58:05,710 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2022-09-21 16:58:20,762 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+

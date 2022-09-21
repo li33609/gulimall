@@ -1,0 +1,84 @@
+2022-09-21 10:23:26,623 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:13000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1663726987461
+
+2022-09-21 10:23:41,697 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.115.1:13000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-09-21 10:23:41,697 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2022-09-21 10:23:41,697 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.115.1:13000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-09-21 10:23:41,697 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2022-09-21 10:23:41,697 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2022-09-21 10:23:41,697 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2022-09-21 12:08:48,687 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.115.1:21000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-09-21 12:08:48,689 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 12:08:48,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 15:28:54,106 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:21000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1663745315065
+
+2022-09-21 15:29:00,876 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.115.1:21000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 15:29:00,897 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 15:36:46,842 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:88@DEFAULT@DEFAULT_GROUP@@gulimall-getway, region: unknown, msg: client timeout after 15000, last beat: 1663745789144
+
+2022-09-21 15:37:01,876 INFO DEFAULT_GROUP@@gulimall-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.115.1:88:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-09-21 15:37:01,877 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-getway, ips: 
+
+2022-09-21 16:43:13,472 INFO DEFAULT_GROUP@@gulimall-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.115.1:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-09-21 16:43:13,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-getway, ips: 192.168.115.1:88_true,
+
+2022-09-21 16:43:13,474 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-getway, ips: 192.168.115.1:88_true,
+
+2022-09-21 16:45:13,660 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:88@DEFAULT@DEFAULT_GROUP@@gulimall-getway, region: unknown, msg: client timeout after 15000, last beat: 1663749898590
+
+2022-09-21 16:45:13,685 INFO service: DEFAULT_GROUP@@gulimall-getway {POS} {IP-ENABLED} valid: 192.168.115.1:88@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 16:45:13,687 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-getway, ips: 192.168.115.1:88_true,
+
+2022-09-21 16:45:34,563 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-getway, ips: 192.168.115.1:88_true,
+
+2022-09-21 16:50:46,415 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:21000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1663750230781
+
+2022-09-21 16:50:54,123 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.115.1:21000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 16:50:54,125 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 16:52:11,455 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:21000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1663750314202
+
+2022-09-21 16:52:17,036 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.115.1:21000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 16:52:17,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 16:52:51,498 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:21000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1663750352068
+
+2022-09-21 16:52:53,197 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.115.1:21000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 16:52:53,200 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 16:55:16,560 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:21000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1663750498319
+
+2022-09-21 16:55:17,287 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.115.1:21000@DEFAULT, region: unknown, msg: client beat ok
+
+2022-09-21 16:55:17,288 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.115.1:21000_true,
+
+2022-09-21 16:58:04,706 INFO {POS} {IP-DISABLED} valid: 192.168.115.1:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1663750664839
+
+2022-09-21 16:58:19,760 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.115.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-09-21 16:58:19,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2022-09-21 16:58:19,760 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.115.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-09-21 16:58:19,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2022-09-21 16:58:19,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2022-09-21 16:58:19,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
